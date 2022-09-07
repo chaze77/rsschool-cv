@@ -57,7 +57,7 @@ Graphic designer
 
 ##### LANGUAGES
 
-Kyrgyz- C2  
+Kyrgyz- git C2  
 Russian-C2  
 English-A2  
 

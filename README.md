@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv
+https://chaze77.github.io/rsschool-cv/cv
